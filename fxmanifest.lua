@@ -1,8 +1,13 @@
+-- FX Information
 fx_version 'cerulean'
-game 'gta5'
-author 'Acid'
-version '1.0.6'
 lua54 'yes'
+game 'gta5'
+
+-- Resource Information
+name 'ped_system'
+author 'Acid'
+version '1.0.7'
+description 'Ped System By Acid - https://acid.tebex.io/'
 
 shared_script {
     '@es_extended/imports.lua',
